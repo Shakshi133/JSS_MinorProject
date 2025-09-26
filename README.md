@@ -79,12 +79,7 @@ Detects string concatenation in loop → Suggests "".join()
 
 Detects range(len(...)) → Suggests direct iteration
 
-📂 Project Structure
-.
-├── app.py           # Streamlit UI
-├── optimizer.py     # Static analyzer & refactor logic
-├── requirements.txt # Dependencies
-└── README.md        # Project documentation
+
 
 ⚠️ Limitations
 
